@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>LeadService</members>
+        <members>CreateNewLeadLWCHandler</members>
+        <name>ApexClass</name>
+    </types>
+   <types>
+        <members>CreateNewLeadAura</members>
+        <name>AuraDefinitionBundle</name>
+    </types>
+    <types>
+        <members>createNewLeadLWC</members>
+        <members>genericDependentPicklist</members>
+        <name>LightningComponentBundle</name>
+    </types>
+    
+    <version>51.0</version>
+</Package>
